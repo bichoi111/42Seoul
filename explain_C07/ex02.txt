@@ -1,0 +1,23 @@
+//method of compile
+
+int main()
+{
+	int *A = NULL;
+	printf("%d", ft_ultimate_range(&A, 0, 3));
+	return (0);
+}
+
+// range has address of *range, *range has address of **range
+// range = {{0,1,2}}
+// *range = {0,1,2}
+
+
+//different answer
+idx = 0;
+while(idx < len)
+{
+	(*range)[idx++] = min++;
+}
+
+// (*range)[idx++] is same as *range[idx]++
+// only difference is order of pointing. 
