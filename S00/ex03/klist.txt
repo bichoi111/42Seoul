@@ -1,0 +1,5 @@
+Credentials cache: API:B7110554-9F54-403B-A4A9-42E829397E72
+        Principal: bichoi@42SEOUL.KR
+
+  Issued                Expires               Principal
+Nov 17 20:25:31 2020  Nov 18 06:25:31 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
